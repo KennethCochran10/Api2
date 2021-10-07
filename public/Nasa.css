@@ -33,7 +33,7 @@ h1{
 }
 
 #carouselExampleCaptions{
-    height: 100px;
+    width: 750px !important;
+    margin:0 auto;
 }
 
-   
