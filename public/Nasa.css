@@ -1,0 +1,39 @@
+/* body{
+    background-image: url(https://www.wallpapers13.com/wp-content/uploads/2015/12/Planets-in-space-hd-wallpaper.jpg);
+} */
+
+/* .img{
+    width: 200px;
+    height: 200px;
+} */
+body{
+    background-image: url(https://www.wallpapers13.com/wp-content/uploads/2015/12/Planets-in-space-hd-wallpaper.jpg);
+    
+}
+h1{
+    color: white;
+}
+
+
+
+
+
+
+.container{
+    color: red;
+    border: dashed blue;
+
+    border-radius: 0px;
+}
+#image{
+    width: 50%;
+}
+#image2{
+    width: 50%;
+}
+
+#carouselExampleCaptions{
+    height: 100px;
+}
+
+   
